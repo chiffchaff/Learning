@@ -1,7 +1,9 @@
-# testGrunt
+## testGrunt
 
 Testing grunt with grunt-init templating
 http://gruntjs.com/getting-started
+
+http://blog.teamtreehouse.com/getting-started-with-grunt
 
 ## Getting Started
 Install the module with: `npm install testGrunt`
